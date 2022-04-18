@@ -1,0 +1,54 @@
+  870  cd Module_3_Challenge
+  871  history 50 > terminal_history.txt
+  872  cd ..
+  873  git status
+  874  git add -A
+  875  git status
+  876  git commit -m "added terminal history text file"
+  877  git push
+  878  git status
+  879  git add -A
+  880  git commit -m "updated readme"
+  881  git push
+  882  git status
+  883  git add -A
+  884  git status
+  885  git commit -m "updated readme and calculated stock beta"
+  886  git status
+  887  git add -A
+  888  git commit -m "calculated sharpe ration and cumulative returns"
+  889  git push
+  890  pip install alpaca_trade_api
+  891  conda activate dev
+  892  pip install alpaca_trade_api
+  893  pip install MCForecastTools
+  894  pip install dotenv
+  895  pip install dotenv
+  896  pip install python-dotenv
+  897  cd ..
+  898  git pull
+  899  conda deactivate
+  900  git status
+  901  git add -A
+  902  git status
+  903  git commit -m "finalized portfolio analysis file"
+  904  git push
+  905  mkdir images
+  906  git status
+  907  git add Primary/risk_return_analysis.ipynb
+  908  git status
+  909  git commit -m "finalized ipynb file"
+  910  git status
+  911  git add -A
+  912  git status
+  913  git commit -m "updated readme and added images file"
+  914  git push
+  915  git status
+  916  git add -A
+  917  git commit -m "ran ipynb"
+  918  git push
+  919  git status
+  920  git add -A
+  921  git status
+  922  git commit -m "fixed image issue in readme"
+  923  git push
