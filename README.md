@@ -16,7 +16,7 @@ This app leverages python 3.7 with the followung technologies
 ### Installation 
 
 1. Clone the repo 
-![Clone](Images/clone.jpg)
+![Clone](images/clone.jpg)
 
 2. Before running the program make sure to install the following dependencies: 
  
@@ -28,7 +28,7 @@ This app leverages python 3.7 with the followung technologies
 
 1. To run the Portfolio Analysis Application navigate to the ***Primary*** folder within the repo and run the ***risk_return_analysis.ipynb*** file 
 
-![folders](Images/navigate.jpg)
+![folders](images/navigate.jpg)
 
 2. In the ***Resources*** folder you will find the datasets used for this analysis which contain price info on four funds and the S&P 500 index 
 
